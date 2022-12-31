@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994105505943",
+    "firebase_url": "https://revolve-master-color-matching.firebaseio.com",
+    "project_id": "revolve-master-color-matching",
+    "storage_bucket": "revolve-master-color-matching.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994105505943:android:1be50a2e8adac90f11d1d2",
+        "android_client_info": {
+          "package_name": "ae.picasso.revolvemaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994105505943-r0e9lflv8gr0uqukopf6f06qpudfcjft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdSgu9luewy4SGjJJnZwFVOp40LyxOyj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994105505943-r0e9lflv8gr0uqukopf6f06qpudfcjft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994105505943-5152ho8v9f547n3tfh9067k7frid8j8n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ae.picasso.revolvemaster"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

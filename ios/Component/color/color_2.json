@@ -1,0 +1,35 @@
+{
+
+    "set_color_1" : [ 
+        
+        {
+            "circle_1" : {"color_1" : "#91cc07" , "color_2" : "#ffd40b" , "color_3" : "#f25006" , "color_4" : "#46def1" } , 
+            "circle_2" : {"color_1" : "#ffd40b" , "color_2" : "#46def1" , "color_3" : "#ffd40b" , "color_4" : "#91cc07" },
+            "circle_3" : {"color_1" : "#ffd40b" , "color_2" : "#46def1" , "color_3" : "#ffd40b" , "color_4" : "#91cc07" },
+            "circle_4" : {"color_1" : "#91cc07" , "color_2" : "#ffd40b" , "color_3" : "#46def1" , "color_4" : "#f25006" },  
+            "circle_5" : {"color_1" : "#46def1" , "color_2" : "#46def1" , "color_3" : "#ffd40b" , "color_4" : "#91cc07" },  
+            "circle_6" : {"color_1" : "#46def1" , "color_2" : "#91cc07" , "color_3" : "#91cc07" , "color_4" : "#f25006" }
+        },
+
+        {
+            "circle_1" : {"color_1" : "#91cc07" , "color_2" : "#46def1" , "color_3" : "#f25006" , "color_4" : "#46def1" } , 
+            "circle_2" : {"color_1" : "#ffd40b" , "color_2" : "#f25006" , "color_3" : "#46def1" , "color_4" : "#f25006" },
+            "circle_3" : {"color_1" : "#ffd40b" , "color_2" : "#ffd40b" , "color_3" : "#91cc07" , "color_4" : "#f25006" },
+            "circle_4" : {"color_1" : "#f25006" , "color_2" : "#f25006" , "color_3" : "#46def1" , "color_4" : "#46def1" },  
+            "circle_5" : {"color_1" : "#f25006" , "color_2" : "#ffd40b" , "color_3" : "#91cc07" , "color_4" : "#91cc07" },  
+            "circle_6" : {"color_1" : "#46def1" , "color_2" : "#ffd40b" , "color_3" : "#f25006" , "color_4" : "#91cc07" }
+        },
+
+        {
+            "circle_1" : {"color_1" : "#f25006" , "color_2" : "#ffd40b" , "color_3" : "#f25006" , "color_4" : "#91cc07" } , 
+            "circle_2" : {"color_1" : "#46def1" , "color_2" : "#f25006" , "color_3" : "#91cc07" , "color_4" : "#46def1" },
+            "circle_3" : {"color_1" : "#ffd40b" , "color_2" : "#91cc07" , "color_3" : "#f25006" , "color_4" : "#46def1" },
+            "circle_4" : {"color_1" : "#f25006" , "color_2" : "#f25006" , "color_3" : "#91cc07" , "color_4" : "#46def1" },  
+            "circle_5" : {"color_1" : "#f25006" , "color_2" : "#ffd40b" , "color_3" : "#f25006" , "color_4" : "#91cc07" },  
+            "circle_6" : {"color_1" : "#46def1" , "color_2" : "#ffd40b" , "color_3" : "#f25006" , "color_4" : "#91cc07" }
+        }
+
+
+    ]
+
+}

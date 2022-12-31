@@ -1,0 +1,55 @@
+{
+  "name": "GameDuet",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/google-signin": "^5.0.0",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-native-community/netinfo": "^5.9.10",
+    "@react-native-firebase/admob": "^10.8.1",
+    "@react-native-firebase/app": "^10.8.1",
+    "@react-navigation/drawer": "^5.12.5",
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.5",
+    "@valdio/react-native-scrollable-tabview": "^0.8.12",
+    "react": "17.0.1",
+    "react-native": "0.63.4",
+    "react-native-awesome-alerts": "^1.4.2",
+    "react-native-axis-pad": "^0.9.6",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-iap": "^5.2.14",
+    "react-native-navbar-color": "^1.0.3",
+    "react-native-physics": "0.0.5",
+    "react-native-progress": "^4.1.2",
+    "react-native-reanimated": "^1.13.3",
+    "react-native-responsive-dimensions": "^3.1.1",
+    "react-native-responsive-screen": "^1.4.2",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screens": "^2.18.1",
+    "react-native-share": "^5.3.0",
+    "react-native-sound": "^0.11.0",
+    "react-native-sound-player": "^0.10.8",
+    "react-native-swipe-gestures": "^1.0.5",
+    "react-native-swiper": "^1.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.2",
+    "@babel/runtime": "^7.14.0",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.26.0",
+    "jest": "^26.6.3",
+    "metro-react-native-babel-preset": "^0.64.0",
+    "react-test-renderer": "17.0.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

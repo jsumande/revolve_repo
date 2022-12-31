@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>994105505943-5152ho8v9f547n3tfh9067k7frid8j8n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.994105505943-5152ho8v9f547n3tfh9067k7frid8j8n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBmJp2aeMgYkTzVNc1ktWGNx6fKRlJsCnc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>994105505943</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ae.picasso.revolvemaster</string>
+	<key>PROJECT_ID</key>
+	<string>revolve-master-color-matching</string>
+	<key>STORAGE_BUCKET</key>
+	<string>revolve-master-color-matching.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:994105505943:ios:549524f9f5cecaa011d1d2</string>
+	<key>DATABASE_URL</key>
+	<string>https://revolve-master-color-matching.firebaseio.com</string>
+</dict>
+</plist>
